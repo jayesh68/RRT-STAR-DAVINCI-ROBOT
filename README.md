@@ -6,7 +6,7 @@
 3. The python script can be run using the command python3 sample_controller.py
 
 ## DaVinci Robot in Gazebo
-<img src="https://github.com/jayesh68/TURTLEBOT3-ASTAR/blob/main/PathImages/Screenshot%20from%202022-03-04%2011-31-49.png"/>
+<img src="https://github.com/jayesh68/RRT-DAVINCI-SURGICAL-ROBOT-/blob/main/Screenshot%20from%202022-03-04%2011-45-48.png"/>
 
 ## Simulation Videos
 https://youtu.be/cARsSiiyXLY
